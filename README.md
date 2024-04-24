@@ -12,7 +12,7 @@
 
 * * *
 
-> A step towards better e-commerce management
+> 
 >
 > GRS
 
