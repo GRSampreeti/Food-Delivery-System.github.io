@@ -31,7 +31,7 @@ This page hosts:
 * * *
 **1.Binary Search Tree:**  <br/>
   Binary Search Trees (BSTs) are a fundamental data structure commonly used for organizing and managing ordered data efficiently. In the context of a food delivery system, BSTs can be utilized to maintain an 
-  ordered database of restaurants or menus based on attributes such as name, cuisine type, or ratings.
+  ordered database of restaurants or menus based on attributes such as name, cuisine type, or ratings. <br/>
 **Time complexity in big O notation**
 | Operation    | Average    | Worst case |
 |--------------|------------|------------|
