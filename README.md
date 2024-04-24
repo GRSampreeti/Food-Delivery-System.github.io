@@ -14,7 +14,7 @@
 
 > A step towards better e-commerce management
 >
-> PH
+> GRS
 
 #### Note:
 This page hosts:
@@ -29,6 +29,18 @@ This page hosts:
 
 
 * * *
+**1.Binary Search Tree:**  <br/>
 
-### Prerequisites
-* Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
+**Time complexity in big O notation**
+| Operation    | Average    | Worst case |
+|--------------|------------|------------|
+| Search       | O(log n)   | O(n)       |
+| Insert       | O(log n)   | O(n)       |
+| Delete       | O(log n)   | O(n)       |
+
+**Space Complexity**
+
+| Space        | Average    | Worst case |
+|--------------|------------|------------|
+| Space        | O(n)       | O(n)       |
+
