@@ -51,7 +51,7 @@ Restaurant management encompasses the organization of a database containing rest
 
 #### Key Algorithms:
 
-1. Binary Search Tree (BST)
+1. [Binary Search Tree (BST)](https://Food-Delivery-System.github.io/Binary_Search_Tree.md)
 2. AVL Tree
 3. Skip List
 4. Red-Black Tree
