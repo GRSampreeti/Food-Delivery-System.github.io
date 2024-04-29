@@ -41,13 +41,8 @@ The design of the food delivery system focuses on simplicity, efficiency, and re
 - Delivery driver app for receiving assignments, navigating routes, and updating status.
 - Backend infrastructure for processing orders, coordinating deliveries, and managing user accounts.
 
-## 🚧 Challenges
-- Efficient matching of orders with available restaurants and delivery drivers.
-- Dynamic route optimization to minimize delivery times and maximize driver efficiency.
-- Handling peak demand periods and surge pricing to ensure timely deliveries.
-- Managing inventory and menu updates across multiple restaurants.
-- Implementing secure payment processing and fraud prevention measures.
-- Addressing regulatory requirements and compliance issues in different regions.
+## 🛠️ Functionalities
+The food delivery system offers a range of features to enhance the user experience and streamline operations, including:
 
 ## 💡 Contributions
 Through this portfolio, I aim to contribute to the advancement of food delivery systems by leveraging software engineering principles and innovative technologies. By addressing key challenges and designing scalable solutions, I seek to enhance the overall user experience, improve operational efficiency, and drive business growth in the competitive food delivery market. My goal is to create a platform that not only meets the needs of customers, restaurants, and delivery drivers but also sets new standards for reliability, convenience, and innovation in the food delivery industry.
