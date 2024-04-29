@@ -42,7 +42,33 @@ The design of the food delivery system focuses on simplicity, efficiency, and re
 - Backend infrastructure for processing orders, coordinating deliveries, and managing user accounts.
 
 ## 🛠️ Functionalities
+
 The food delivery system offers a range of features to enhance the user experience and streamline operations, including:
+
+### Restaurant Management 🍽️ :
+
+Restaurant management encompasses the organization of a database containing restaurants or menus, categorized by attributes such as ratings and cuisines. This process includes essential functions like insertion, deletion, and searching.
+
+#### Key Algorithms:
+
+1. Binary Search Tree (BST)
+2. AVL Tree
+3. Skip List
+4. Red-Black Tree
+
+### Delivery System 🚚:
+
+The delivery system involves the coordination and optimization of delivery operations, ensuring timely and efficient delivery of goods to customers. This process includes functions such as route planning, tracking, and optimization, aimed at maximizing delivery efficiency and customer satisfaction.
+
+#### Key Algorithms:
+
+1. DFS and BFS
+2. Kruskal Algorithm
+3. A* Algorithm
+
+
+
+
 
 ## 💡 Contributions
 Through this portfolio, I aim to contribute to the advancement of food delivery systems by leveraging software engineering principles and innovative technologies. By addressing key challenges and designing scalable solutions, I seek to enhance the overall user experience, improve operational efficiency, and drive business growth in the competitive food delivery market. My goal is to create a platform that not only meets the needs of customers, restaurants, and delivery drivers but also sets new standards for reliability, convenience, and innovation in the food delivery industry.
