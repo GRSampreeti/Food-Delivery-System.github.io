@@ -92,9 +92,6 @@ int main() {
                 scanf("%d", &data);
                 root = delete_node(root, data);
                 break;
-            case 6:
-                printf("Height of the BST is %d\n", height(root));
-                break;
             default:
                 exit(0);
         }
@@ -206,20 +203,6 @@ TREE *delete_node(TREE *root, int data) {
 
     free(currnode);
     return root;
-}
-
-int height(TREE *root) {
-    if (root == NULL)
-        return 0;
-    else {
-        int left_height = height(root->left);
-        int right_height = height(root->right);
-
-        if (left_height > right_height)
-            return (left_height + 1);
-        else
-            return (right_height + 1);
-    }
 }
 
 ```
