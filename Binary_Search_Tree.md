@@ -21,6 +21,7 @@ Binary Search Trees (BSTs) are a fundamental data structure commonly used for or
 Here is a basic implementation of a Binary Search Tree in C:
 
 ```c
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -220,3 +221,5 @@ int height(TREE *root) {
             return (right_height + 1);
     }
 }
+
+```
