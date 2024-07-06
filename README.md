@@ -53,8 +53,7 @@ Restaurant management encompasses the organization of a database containing rest
 
 1.[Binary Search Tree (BST)](https://grsampreeti.github.io/Food-Delivery-System.github.io/Binary_Search_Tree)
 2.[AVL Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/AVL_Tree)
-3. Skip List
-4. Red-Black Tree
+3. [Skip List](https://grsampreeti.github.io/Food-Delivery-System.github.io/Skip_list)
 
 ### Delivery System 🚚:
 
@@ -64,6 +63,9 @@ The delivery system involves the coordination and optimization of delivery opera
 
 1. [Dijkstra](https://grsampreeti.github.io/Food-Delivery-System.github.io/Dijkstra)
 2. [A* Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/A_start_Algorithm)
+3. [Kadane](https://grsampreeti.github.io/Food-Delivery-System.github.io/kadane)
+4. [Radix](https://grsampreeti.github.io/Food-Delivery-System.github.io/radix)
+5. [Trie](https://grsampreeti.github.io/Food-Delivery-System.github.io/trie)
 
 
 
