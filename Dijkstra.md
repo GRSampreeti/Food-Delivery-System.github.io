@@ -12,7 +12,7 @@ The algorithm works by iteratively selecting the node with the smallest tentativ
 
 - **Class**: Search algorithm, Greedy algorithm, Dynamic programming
 - **Data Structure**: Graph, Usually used with priority queue or heap for optimization
-- **Worst-case Performance**: Θ(|E|+|V|log|V|)
+- **Worst-case Performance**: O(|E|+|V|log|V|)
 
 ## Code Implementation
 
