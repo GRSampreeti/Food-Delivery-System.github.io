@@ -66,6 +66,9 @@ The delivery system involves the coordination and optimization of delivery opera
 3. [Kadane](https://grsampreeti.github.io/Food-Delivery-System.github.io/kadane)
 4. [Radix](https://grsampreeti.github.io/Food-Delivery-System.github.io/radix)
 5. [Trie](https://grsampreeti.github.io/Food-Delivery-System.github.io/trie)
+6. [Topological sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+7. [Merge Sort](https://github.com/GRSampreeti/Food-Delivery-System.github.io/merge_sort)
+   
 
 
 
