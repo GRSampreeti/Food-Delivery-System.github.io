@@ -62,7 +62,7 @@ The delivery system involves the coordination and optimization of delivery opera
 
 #### Key Algorithms:
 
-1. DFS and BFS
+1. Dijkstra(https://grsampreeti.github.io/Food-Delivery-System.github.io/Dijkstra)
 2. Kruskal Algorithm
 3. A* Algorithm
 
