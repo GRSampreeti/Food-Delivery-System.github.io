@@ -8,13 +8,11 @@ Dijkstra's algorithm finds the shortest path between nodes in a graph, which may
 
 The algorithm works by iteratively selecting the node with the smallest tentative distance, updating the distances of its neighbors, and marking it as processed.
 
-*Dijkstra's algorithm to find the shortest path between nodes `a` and `b`. It picks the unvisited vertex with the lowest distance, calculates the distance through it to each unvisited neighbor, and updates the neighbor's distance if smaller. Mark visited (set to red) when done with neighbors.*
-
 ## Complexity
 
 - **Class**: Search algorithm, Greedy algorithm, Dynamic programming
 - **Data Structure**: Graph, Usually used with priority queue or heap for optimization
-- **Worst-case Performance**: Θ(|E| + |V| log |V|)
+- **Worst-case Performance**: Θ(|E|+|V|log|V|)
 
 ## Code Implementation
 
