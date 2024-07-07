@@ -1,21 +1,18 @@
-# A* Search Algorithm
-
-## Overview
+# A* Search
 
 A* (pronounced "A-star") is a graph traversal and pathfinding algorithm used extensively in various fields of computer science.
 
-![A* Pathfinding](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
+![A Pathfinding](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
 
 ## Key Characteristics
 
 - **Class**: Search algorithm
 - **Data structure**: Graph
-- **Worst-case performance**: \( O(|E|log |V|) = O(b^d) \)
+- **Worst-case performance**: \( O(|E| \log |V|) = O(b^d) \)
 - **Worst-case space complexity**: \( O(b^d) \)
 
-## Code
+## Code Implementation
 
-{% raw %}
 ```cpp
 #include <iostream>
 #include <vector>
@@ -149,3 +146,4 @@ int main() {
 
     return 0;
 }
+```
