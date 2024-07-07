@@ -87,7 +87,6 @@ CoordinateList A_Star(Vec2i start, Vec2i goal, HeuristicFunction h, const std::v
     openSet.emplace(fScore[start], start);
     openSetHash.insert(start);
 
-    const std::vector<Vec2i> directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}, {-1, -1}, {1, 1}, {-1, 1}, {1, -1}};
 
     while (!openSet.empty()) {
         Vec2i current = openSet.top().second;
