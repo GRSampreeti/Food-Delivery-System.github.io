@@ -15,6 +15,7 @@ A* (pronounced "A-star") is a graph traversal and pathfinding algorithm used ext
 
 ## Code
 
+{% raw %}
 ```cpp
 #include <iostream>
 #include <vector>
@@ -148,5 +149,3 @@ int main() {
 
     return 0;
 }
-```
-
