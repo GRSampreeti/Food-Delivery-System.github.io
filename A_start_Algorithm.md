@@ -4,7 +4,7 @@
 
 A* (pronounced "A-star") is a graph traversal and pathfinding algorithm used extensively in various fields of computer science.
 
-![A* Pathfinding](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
+
 
 ## Key Characteristics
 
