@@ -69,16 +69,17 @@ The food delivery system offers a range of features to enhance the user experien
    - [Skip List](https://grsampreeti.github.io/Food-Delivery-System.github.io/Skip_list)
 
 7. **Menu Item Randomization:**
-   - Fisher-Yates Shuffle
+   - [Fisher-Yates Shuffle](https://grsampreeti.github.io/Food-Delivery-System.github.io/Fisher-Yates Shuffle)
 
 8. **Dynamic Restaurant Management:**
-   - Heap Data Structure
+   - [Heap Data Structure](https://grsampreeti.github.io/Food-Delivery-System.github.io/Heap)
 
 9. **Range Queries and Updates:**
-   - Segment Trees or Binary Indexed Trees (Fenwick Trees)
+   -  [Segment Trees](https://grsampreeti.github.io/Food-Delivery-System.github.io/Segment Trees)
+   -  [Binary Indexed Trees (Fenwick Trees)](https://grsampreeti.github.io/Food-Delivery-System.github.io/BIT)
 
 10. **Menu Item Prioritization:**
-    - Heap Data Structure
+    - [Heap Data Structure](https://grsampreeti.github.io/Food-Delivery-System.github.io/Heap)
 
 11. **Collaborative Filtering:**
     - [Collaborative Filtering](https://grsampreeti.github.io/Food-Delivery-System.github.io/collaborative_filtering)
@@ -91,13 +92,14 @@ The food delivery system offers a range of features to enhance the user experien
     - [Topological Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
 
 14. **Order Prioritization:**
-    - Stack or Earliest Deadline First (EDF) Scheduling
+    - [Stack](https://grsampreeti.github.io/Food-Delivery-System.github.io/Stack)
+    - [Earliest Deadline First (EDF) Scheduling](https://grsampreeti.github.io/Food-Delivery-System.github.io/Earliest Deadline First)
 
 15. **Space-efficient Data Management:**
     - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
 
 16. **Workforce Scheduling and Promotion Optimization:**
-   - Hungarian Algorithm
+   - [Hungarian Algorithm]((https://grsampreeti.github.io/Food-Delivery-System.github.io/Hungarian Algorithm)
      
 17. **Managing Customer Traffic During Sales**
     - [Ford-Fulkerson algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
