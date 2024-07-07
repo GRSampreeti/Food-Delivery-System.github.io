@@ -45,33 +45,64 @@ The design of the food delivery system focuses on simplicity, efficiency, and re
 
 The food delivery system offers a range of features to enhance the user experience and streamline operations, including:
 
-### Restaurant Management 🍽️ :
+### Portfolio of Food Delivery System Algorithms and Data Structures
 
-Restaurant management encompasses the organization of a database containing restaurants or menus, categorized by attributes such as ratings and cuisines. This process includes essential functions like insertion, deletion, and searching.
+1. **Binary Search Tree (BST) and AVL Tree:**
+   - [BST](https://grsampreeti.github.io/Food-Delivery-System.github.io/Binary_Search_Tree)
+   - [AVL Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/AVL_Tree)
 
-#### Key Algorithms:
+2. **Route Planning and Optimization:**
+   - [Dijkstra's Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Dijkstra)
+   - [A* Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/A_start_Algorithm)
 
-1.[Binary Search Tree (BST)](https://grsampreeti.github.io/Food-Delivery-System.github.io/Binary_Search_Tree)
-2.[AVL Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/AVL_Tree)
-3. [Skip List](https://grsampreeti.github.io/Food-Delivery-System.github.io/Skip_list)
+3. **Optimal Delivery Zone Determination:**
+   - [2D Kadane's Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/kadane)
 
-### Delivery System 🚚:
+4. **Indexing and Fast Lookup:**
+   - [Radix Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/radix)
+   - [Trie](https://grsampreeti.github.io/Food-Delivery-System.github.io/trie)
 
-The delivery system involves the coordination and optimization of delivery operations, ensuring timely and efficient delivery of goods to customers. This process includes functions such as route planning, tracking, and optimization, aimed at maximizing delivery efficiency and customer satisfaction.
+5. **Typo-tolerant Search:**
+   - [Levenshtein Distance](https://grsampreeti.github.io/Food-Delivery-System.github.io/Levenshtein%20Distance)
 
-#### Key Algorithms:
+6. **Dynamic Delivery Time Management:**
+   - [Skip List](https://grsampreeti.github.io/Food-Delivery-System.github.io/Skip_list)
 
-1. [Dijkstra](https://grsampreeti.github.io/Food-Delivery-System.github.io/Dijkstra)
-2. [A* Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/A_start_Algorithm)
-3. [Kadane](https://grsampreeti.github.io/Food-Delivery-System.github.io/kadane)
-4. [Radix](https://grsampreeti.github.io/Food-Delivery-System.github.io/radix)
-5. [Trie](https://grsampreeti.github.io/Food-Delivery-System.github.io/trie)
-6. [Topological sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
-7. [Merge Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/merge_sort)
-   
+7. **Menu Item Randomization:**
+   - Fisher-Yates Shuffle
 
+8. **Dynamic Restaurant Management:**
+   - Heap Data Structure
 
+9. **Range Queries and Updates:**
+   - Segment Trees or Binary Indexed Trees (Fenwick Trees)
 
+10. **Menu Item Prioritization:**
+    - Heap Data Structure
+
+11. **Collaborative Filtering:**
+    - [Collaborative Filtering](https://grsampreeti.github.io/Food-Delivery-System.github.io/collaborative_filtering)
+
+12. **Sorting Dishes:**
+    - [Merge Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/merge_sort)
+    - [Quick Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/quick_sort)
+
+13. **Optimal Restaurant Visit Sequences:**
+    - [Topological Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+
+14. **Order Prioritization:**
+    - Stack or Earliest Deadline First (EDF) Scheduling
+
+15. **Space-efficient Data Management:**
+    - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+
+16. **Workforce Scheduling and Promotion Optimization:**
+   - Hungarian Algorithm
+     
+17. **Managing Customer Traffic During Sales**
+    - [Ford-Fulkerson algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+    
+    
 
 
 ## 💡 Contributions
