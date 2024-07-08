@@ -2,6 +2,9 @@
 
 Binary Search Trees (BSTs) are a fundamental data structure commonly used for organizing and managing ordered data efficiently. In the context of a food delivery system, BSTs can be utilized to maintain an ordered database of restaurants or menus based on attributes such as name, cuisine type, or ratings. 
 
+![Animation](https://upload.wikimedia.org/wikipedia/commons/9/9b/Binary_search_tree_example.gif)
+<p><em>Source: https://commons.wikimedia.org/wiki/File:Binary_search_tree_example.gif </em></p>
+
 ## Time complexity in big O notation
 
 | Operation    | Average    | Worst case |
