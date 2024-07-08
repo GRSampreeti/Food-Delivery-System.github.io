@@ -13,7 +13,7 @@ The algorithm works by iteratively selecting the node with the smallest tentativ
 - **Class**: Search algorithm, Greedy algorithm, Dynamic programming
 - **Data Structure**: Graph, Usually used with priority queue or heap for optimization
 
-## Code Implementation
+## Implementation
 
 ```cpp
 #include <iostream>
