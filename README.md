@@ -97,13 +97,13 @@ The food delivery system offers a range of features to enhance the user experien
 
 
 15. **Space-efficient Data Management:**
-    - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+    - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Bloom%20Filter)
 
 16. **Workforce Scheduling and Promotion Optimization:**
     - [Hungarian Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Hungarian%20Algorithm)
      
 17. **Managing Customer Traffic During Sales**
-    - [Ford-Fulkerson algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+    - [Ford-Fulkerson algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Ford-Fulkerson)
     
     
 
