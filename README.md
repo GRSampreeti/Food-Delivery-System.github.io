@@ -93,7 +93,8 @@ The food delivery system offers a range of features to enhance the user experien
 
 14. **Order Prioritization:**
     - [Stack](https://grsampreeti.github.io/Food-Delivery-System.github.io/Stack)
-    - [Earliest Deadline First (EDF) Scheduling](https://grsampreeti.github.io/Food-Delivery-System.github.io/Earliest%20Deadline%20First)
+    - [Earliest Deadline First (EDF) Scheduling](https://github.com/jabezwinston/Earliest_Deadline_First)
+
 
 15. **Space-efficient Data Management:**
     - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
