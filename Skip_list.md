@@ -4,7 +4,7 @@
 
 A skip list is a data structure that allows fast search within an ordered sequence of elements. It maintains a linked hierarchy of subsequences, where each successive subsequence skips over fewer elements than the previous one. Searching starts in the sparsest subsequence and continues to denser subsequences until the element is found.
 
-## Time Complexity in Big O Notation
+## Time Complexity 
 
 | Operation | Average Case | Worst Case  |
 |-----------|--------------|-------------|
@@ -21,7 +21,7 @@ A skip list is a data structure that allows fast search within an ordered sequen
 
 ![Skip List](https://upload.wikimedia.org/wikipedia/commons/2/2c/Skip_list_add_element-en.gif) 
 
-## C++ Code Implementation
+## Code
 
 ```cpp
 #include <iostream>
