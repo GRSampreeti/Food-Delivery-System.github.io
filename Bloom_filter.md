@@ -6,9 +6,12 @@ A Bloom filter is a space-efficient probabilistic data structure that is used to
 - Test the membership of an item in the set
 
 ![Adding an item to Bloom Filter](https://systemdesign.one/bloom-filters-explained/add-item-bloom-filter.webp)
-![Testing membership in Bloom Filter](https://systemdesign.one/bloom-filters-explained/item-membership-bloom-filter.webp)
+<p><em>Source:https://systemdesign.one/bloom-filters-explained/ </em></p>
 
-## C++ Code
+![Testing membership in Bloom Filter](https://systemdesign.one/bloom-filters-explained/item-membership-bloom-filter.webp)
+<p><em>Source:https://systemdesign.one/bloom-filters-explained/ </em></p>
+
+## Code
 
 ```cpp
 #include <bits/stdc++.h>
@@ -106,3 +109,4 @@ int main() {
 
     return 0;
 }
+```
