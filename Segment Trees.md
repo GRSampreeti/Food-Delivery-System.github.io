@@ -4,17 +4,23 @@ A Segment Tree is a data structure that stores information about array intervals
 
 ### Key Features
 
-- **Range Queries:** Efficiently find the sum of consecutive array elements \( a[l \dots r] \) or find the minimum element in such a range in \( O(\log n) \) time.
-- **Modifications:** Allows modifying the array by replacing one element or changing the elements of a whole subsegment. For example, you can assign all elements \( a[l \dots r] \) to any value or add a value to all elements in the subsegment.
-- **Flexibility:** Can handle a wide range of problems and can be easily generalized to larger dimensions, such as two-dimensional Segment Trees for querying subrectangles in a matrix in \( O(\log^2 n) \) time.
+- **Range Queries:** Efficiently find the sum of consecutive array elements or find the minimum element in such a range in \( O(log n) \) time.
+- **Modifications:** Allows modifying the array by replacing one element or changing the elements of a whole subsegment.
 - **Memory Efficiency:** Requires only a linear amount of memory. The standard Segment Tree requires \( 4n \) vertices for working on an array of size \( n \).
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Segment_tree.svg" alt="Segment Tree" width="400"/>
+</p>
+
+<p align="center"><em>Source :https://en.wikipedia.org/wiki/Segment_tree</a></em></p>
+
 
 ### Complexity
 
 - **Time Complexity:**
   - Building the tree: \( O(n) \)
-  - Querying a range: \( O(\log n) \)
-  - Updating an element: \( O(\log n) \)
+  - Querying a range: \( O(log n) \)
+  - Updating an element: \( O(log n) \)
   
 - **Space Complexity:** \( O(n) \)
 
