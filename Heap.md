@@ -8,7 +8,6 @@ A heap is a tree-based data structure that satisfies the heap property:
   
 - **Replacement:** Remove the root element, replace it with a new element, and perform a sift down operation if necessary. This method avoids a separate insertion step after extraction.
 
-### Visualization
 
 ![Heap Sort Example](https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif)
 
@@ -71,3 +70,4 @@ int main() {
     
     return 0;
 }
+```
