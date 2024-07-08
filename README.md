@@ -86,7 +86,7 @@ The food delivery system offers a range of features to enhance the user experien
 
 12. **Sorting Dishes:**
     - [Merge Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/merge_sort)
-    - [Quick Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/quick_sort)
+    - [Quick Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Quick)
 
 13. **Optimal Restaurant Visit Sequences:**
     - [Topological Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
