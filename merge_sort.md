@@ -3,6 +3,7 @@
 Merge sort is a divide-and-conquer algorithm that divides the input array into two halves, recursively sorts each half, and then merges the sorted halves to produce the sorted array. This process continues until each sublist contains a single element, which is considered sorted. The merging step involves comparing elements from each sublist and combining them into a larger sorted list.
 
 ![Merge Sort Animation](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
+<p><em>Source: https://en.wikipedia.org/wiki/Merge_sort </em></p>
 
 ### Performance
 - **Worst-case performance**: $O(n \log n)$
@@ -11,6 +12,7 @@ Merge sort is a divide-and-conquer algorithm that divides the input array into t
 - **Worst-case space complexity**: 
   - $O(n)$ total with $O(n)$ auxiliary
   - $O(1)$ auxiliary with linked lists
+
 
 ## Implementation in C
 
