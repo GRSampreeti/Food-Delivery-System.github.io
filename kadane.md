@@ -8,7 +8,7 @@ O(c^2 * r), where c is the number of columns and r is the number of rows in the 
 ### Space Complexity:
 O(r), where r is the number of rows in the matrix.
 
-## Example Code
+## Code
 
 ```cpp
 #include <bits/stdc++.h>
