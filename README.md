@@ -15,101 +15,111 @@ Revolutionizing the way people experience food delivery.
 - Introduction
 - Why Food Delivery System
 - Objectives
-- Design
-- Challenges
-- To-Do
+- Functionalities
+- Reference
 
 
 ## 🚀 Introduction
-The food delivery system is a vital part of modern urban life, providing convenience and accessibility to a variety of cuisines from local restaurants. This portfolio focuses on the development and optimization of a food delivery platform to streamline the ordering process, enhance user experience, and facilitate efficient delivery logistics.
+Food delivery systems have transformed the way people order and enjoy meals. With the rise of user-friendly apps and websites, customers can conveniently choose from a variety of restaurants and cuisines without leaving their homes. The global food delivery market is booming, projected to reach $1.22 trillion by 2024 [1], driven by the growing demand for convenience, diverse culinary experiences, and efficient time management. As the industry evolves, innovations like real-time order tracking and cashless payments continue to enhance user satisfaction and operational efficiency.
 
 ## ❓ Why Food Delivery System?
 - Food delivery systems offer convenience, variety, and accessibility to users, allowing them to enjoy restaurant-quality meals from the comfort of their homes.
-- The platform serves as a bridge between customers and restaurants, facilitating seamless transactions and efficient delivery operations.
+- The platform serves as a bridge between customers and restaurants, facilitating efficient delivery operations.
 - With the increasing demand for food delivery services, there is a growing opportunity to innovate and improve the food delivery experience for both customers and businesses.
 
 ## 🎯 Objectives
 The objectives of this portfolio include:
-- Demonstrating proficiency in algorithmic problem-solving within the context of food delivery systems.
-- Highlighting the role of algorithms in optimizing various processes such as order management, delivery routing, and real-time tracking in food delivery platforms.
-- Presenting real-world use cases and innovative solutions tailored to the challenges encountered within the food delivery domain.
 
-## 🎨 Design
-The design of the food delivery system focuses on simplicity, efficiency, and reliability. Key components include:
-- Customer-facing mobile app for browsing menus, placing orders, and tracking deliveries.
-- Restaurant portal for managing menus, orders, and inventory.
-- Delivery driver app for receiving assignments, navigating routes, and updating status.
-- Backend infrastructure for processing orders, coordinating deliveries, and managing user accounts.
+- To show how algorithms can optimize order management, delivery routing, and real-time tracking in food delivery platforms.
+- To create a comprehensive resource that maps food delivery functionalities to appropriate algorithmic solutions.
+- To explore and implement a range of algorithms relevant to food delivery systems.
 
 ## 🛠️ Functionalities
 
 The food delivery system offers a range of features to enhance the user experience and streamline operations, including:
 
 ### Portfolio of Food Delivery System Algorithms and Data Structures
+(click on each algorithm to explore further)
 
-1. **Binary Search Tree (BST) and AVL Tree:**
-   - [BST](https://grsampreeti.github.io/Food-Delivery-System.github.io/Binary_Search_Tree)
-   - [AVL Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/AVL_Tree)
+1. **Data Storage and Retrieval:**
+   - Efficiently storing and retrieving information like restaurants, menus, and orders.
+     - [BST](https://grsampreeti.github.io/Food-Delivery-System.github.io/Binary_Search_Tree)
+     - [AVL Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/AVL_Tree)
 
 2. **Route Planning and Optimization:**
-   - [Dijkstra's Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Dijkstra)
-   - [A* Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/A_start_Algorithm)
+   - Finding the best delivery routes to minimize time and distance.
+     - [Dijkstra's Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Dijkstra)
+     - [A* Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/A_start_Algorithm)
 
-3. **Optimal Delivery Zone Determination:**
-   - [2D Kadane's Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/kadane)
+3. **Dynamic Delivery Time Management:**
+   - Adjusting delivery times based on traffic, weather, and order volumes.
+     - [Skip List](https://grsampreeti.github.io/Food-Delivery-System.github.io/Skip_list)
 
-4. **Indexing and Fast Lookup:**
-   - [Radix Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/radix)
-   - [Trie](https://grsampreeti.github.io/Food-Delivery-System.github.io/trie)
+4. **Range Queries and Updates:**
+   - Handling queries that involve a range of values (e.g., price or distance).
+     - [Segment Trees](https://grsampreeti.github.io/Food-Delivery-System.github.io/Segment%20Trees)
+     - [Binary Indexed Trees (Fenwick Trees)](https://grsampreeti.github.io/Food-Delivery-System.github.io/BIT)
 
-5. **Typo-tolerant Search:**
-   - [Levenshtein Distance](https://grsampreeti.github.io/Food-Delivery-System.github.io/Levenshtein%20Distance)
+5. **Optimal Delivery Zone Determination:**
+   - Identifying areas where deliveries can be made quickly and efficiently.
+     - [2D Kadane's Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/kadane)
 
-6. **Dynamic Delivery Time Management:**
-   - [Skip List](https://grsampreeti.github.io/Food-Delivery-System.github.io/Skip_list)
+6. **Indexing and Fast Lookup:**
+   - Quickly finding specific data like restaurants or dishes.
+     - [Radix Tree](https://grsampreeti.github.io/Food-Delivery-System.github.io/radix)
+     - [Trie](https://grsampreeti.github.io/Food-Delivery-System.github.io/trie)
+       
+7. **Menu Item Prioritization:**
+   - Highlighting popular or recommended dishes to users.
+     - [Heap Data Structure](https://grsampreeti.github.io/Food-Delivery-System.github.io/Heap)
 
-7. **Menu Item Randomization:**
-   - [Fisher-Yates Shuffle](https://grsampreeti.github.io/Food-Delivery-System.github.io/Fisher-Yates%20Shuffle)
+8. **Menu Item Randomization:**
+   - Offering varied menu suggestions to users.
+     - [Fisher-Yates Shuffle](https://grsampreeti.github.io/Food-Delivery-System.github.io/Fisher-Yates%20Shuffle)
 
-8. **Dynamic Restaurant Management:**
-   - [Heap Data Structure](https://grsampreeti.github.io/Food-Delivery-System.github.io/Heap)
+9. **Dynamic Restaurant Management:**
+   - Managing real-time changes in restaurant availability and menu updates.
+     - [Heap Data Structure](https://grsampreeti.github.io/Food-Delivery-System.github.io/Heap)
 
-9. **Range Queries and Updates:**
-   -  [Segment Trees](https://grsampreeti.github.io/Food-Delivery-System.github.io/Segment%20Trees)
-   -  [Binary Indexed Trees (Fenwick Trees)](https://grsampreeti.github.io/Food-Delivery-System.github.io/BIT)
+10. **Collaborative Filtering:**
+    - Suggesting restaurants or dishes based on user preferences and behavior.
+      - [Collaborative Filtering](https://grsampreeti.github.io/Food-Delivery-System.github.io/collaborative_filtering)
 
-10. **Menu Item Prioritization:**
-    - [Heap Data Structure](https://grsampreeti.github.io/Food-Delivery-System.github.io/Heap)
+11. **Sorting Dishes:**
+    - Displaying dishes in order of customer ratings for better decision-making.
+      - [Merge Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/merge_sort)
+      - [Quick Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Quick)
 
-11. **Collaborative Filtering:**
-    - [Collaborative Filtering](https://grsampreeti.github.io/Food-Delivery-System.github.io/collaborative_filtering)
+12. **Error-tolerant Search:**
+    - Allowing users to find restaurants or dishes even with spelling mistakes.
+      - [Levenshtein Distance](https://grsampreeti.github.io/Food-Delivery-System.github.io/Levenshtein%20Distance)
 
-12. **Sorting Dishes:**
-    - [Merge Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/merge_sort)
-    - [Quick Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Quick)
+13. **Order Prioritization:**
+    - Managing and delivering orders based on urgency or customer preferences.
+      - [Stack](https://grsampreeti.github.io/Food-Delivery-System.github.io/Stack)
+      - [Earliest Deadline First (EDF) Scheduling](https://github.com/jabezwinston/Earliest_Deadline_First)
 
-13. **Optimal Restaurant Visit Sequences:**
-    - [Topological Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
+14. **Space-efficient Data Management:**
+    - Optimizing storage to handle large amounts of data efficiently.
+      - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Bloom_filter)
 
-14. **Order Prioritization:**
-    - [Stack](https://grsampreeti.github.io/Food-Delivery-System.github.io/Stack)
-    - [Earliest Deadline First (EDF) Scheduling](https://github.com/jabezwinston/Earliest_Deadline_First)
+15. **Shift Scheduling and Coupon Distribution Optimization:**
+    - Efficiently managing delivery staff schedules and distributing promotional offers.
+      - [Hungarian Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Hungarian%20Algorithm)
 
-
-15. **Space-efficient Data Management:**
-    - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Bloom_filter)
-
-16. **Workforce Scheduling and Promotion Optimization:**
-    - [Hungarian Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Hungarian%20Algorithm)
+16. **Optimal Restaurant Visit Sequences:**
+    - Planning efficient sequences for multiple restaurant pickups.
+      - [Topological Sort](https://grsampreeti.github.io/Food-Delivery-System.github.io/Topological_sort)
      
-17. **Managing Customer Traffic During Sales**
-    - [Ford-Fulkerson algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Ford-Fulkerson)
-    
-    
+17. **Managing Customer Traffic During Sales:**
+    - Manages customer traffic during sales by optimizing flow through network paths, crucial for handling peak demand periods efficiently.
+      - [Ford-Fulkerson algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Ford-Fulkerson)
 
 
-## 💡 Contributions
-Through this portfolio, I aim to contribute to the advancement of food delivery systems by leveraging software engineering principles and innovative technologies. By addressing key challenges and designing scalable solutions, I seek to enhance the overall user experience, improve operational efficiency, and drive business growth in the competitive food delivery market. My goal is to create a platform that not only meets the needs of customers, restaurants, and delivery drivers but also sets new standards for reliability, convenience, and innovation in the food delivery industry.
+    
+### Reference
+
+[1] MenuTiger, 2024. Food Delivery Statistics. [online] Available at: https://www.menutiger.com/blog/food-delivery-statistics [Accessed 8 July 2024].
 
 
 
