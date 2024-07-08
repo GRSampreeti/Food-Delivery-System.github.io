@@ -97,7 +97,7 @@ The food delivery system offers a range of features to enhance the user experien
 
 
 15. **Space-efficient Data Management:**
-    - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Bloom%20Filter)
+    - [Bloom Filter](https://grsampreeti.github.io/Food-Delivery-System.github.io/Bloom_filter)
 
 16. **Workforce Scheduling and Promotion Optimization:**
     - [Hungarian Algorithm](https://grsampreeti.github.io/Food-Delivery-System.github.io/Hungarian%20Algorithm)
