@@ -5,8 +5,9 @@ A stack is a data type that serves as a collection of elements with two main ope
 - **Pop**, which removes the most recently added element.
 
 <img src="https://miro.medium.com/v2/resize:fit:800/1*kkK3EZNOzBsuwkDNvSVR9g.gif" alt="Bloom Filter GIF" width="400">
+<p><em>Source: https://fullyunderstood.com/stack/ </em></p>
 
-## C Code
+## Code
 
 ```c
 #include <stdio.h>
@@ -93,3 +94,4 @@ void display(s *stack) {
         }
     }
 }
+```
