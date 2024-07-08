@@ -6,8 +6,8 @@ A Fenwick tree or binary indexed tree (BIT) is a data structure that can efficie
 
 | Operation | Average | Worst Case |
 |-----------|---------|------------|
-| Search    | \( O(\log n) \) | \( O(\log n) \) |
-| Insert    | \( O(\log n) \) | \( O(\log n) \) |
+| Search    | \( O(log n) \) | \( O(log n) \) |
+| Insert    | \( O(log n) \) | \( O(log n) \) |
 
 ## Space Complexity
 
@@ -58,3 +58,4 @@ int main() {
     delete[] BITree;
     return 0;
 }
+```
