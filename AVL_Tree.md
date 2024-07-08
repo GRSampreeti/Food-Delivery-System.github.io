@@ -4,6 +4,13 @@
 
 This is a C++ implementation of an AVL tree, a self-balancing binary search tree. AVL trees maintain their balance by performing rotations when necessary during insertion and deletion operations.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/AVL_Tree_Example.gif" alt="AVL Tree Example" width="400"/>
+</p>
+
+<p align="center"><em>Source:https://en.wikipedia.org/wiki/AVL_tree</em></p>
+
+
 ## Space and Time Complexity
 
 ### Space Complexity
