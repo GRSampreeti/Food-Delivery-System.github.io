@@ -8,7 +8,7 @@ A* (pronounced "A-star") is a graph traversal and pathfinding algorithm used ext
 
 - **Class**: Search algorithm
 - **Data structure**: Graph
-- **Worst-case performance**: \( O(|E| \log |V|) = O(b^d) \)
+- **Worst-case performance**: \( O(\|E\| log \|V\|) = O(b^d) \)
 - **Worst-case space complexity**: \( O(b^d) \)
 
 ## Code Implementation
