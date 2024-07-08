@@ -3,6 +3,7 @@
 Quicksort is an efficient, general-purpose sorting algorithm. Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
 
 ![Quicksort Animation](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+<p><em>Source: https://en.wikipedia.org/wiki/Quicksort </em></p>
 
 ## Performance Characteristics
 
@@ -13,7 +14,7 @@ Quicksort is an efficient, general-purpose sorting algorithm. Quicksort is a div
 | Average performance | \( O(n log n) \) |
 | Worst-case space complexity | \( O(n) \) auxiliary (naive) or \( O(log n) \) auxiliary |
 
-## C Code
+## Code
 
 ```c
 #include<stdio.h>
@@ -70,3 +71,4 @@ int main() {
     display(a, n);
     return 0;
 }
+```
