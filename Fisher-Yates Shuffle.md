@@ -4,7 +4,9 @@ The Fisher-Yates shuffle algorithm is used to generate a random permutation of a
 
 The time complexity of this algorithm is \( O(n) \).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Durstenfeld_shuffle.svg" alt="Fisher-Yates Shuffle" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Durstenfeld_shuffle.svg" alt="Fisher-Yates Shuffle" width="200">
+<p><em>Source: https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle </em></p>
+
 
 ## C++ Implementation
 
