@@ -9,9 +9,9 @@ Quicksort is an efficient, general-purpose sorting algorithm. Quicksort is a div
 | Performance | Complexity |
 |-------------|-------------|
 | Worst-case performance | \( O(n^2) \) |
-| Best-case performance | \( O(n \log n) \) (simple partition) or \( O(n) \) (three-way partition and equal keys) |
-| Average performance | \( O(n \log n) \) |
-| Worst-case space complexity | \( O(n) \) auxiliary (naive) or \( O(\log n) \) auxiliary |
+| Best-case performance | \( O(n log n) \) (simple partition) or \( O(n) \) (three-way partition and equal keys) |
+| Average performance | \( O(n log n) \) |
+| Worst-case space complexity | \( O(n) \) auxiliary (naive) or \( O(log n) \) auxiliary |
 
 ## C Code
 
