@@ -10,7 +10,7 @@ Topological sorting algorithms:
 
 ### Complexity
 
-- Linear time complexity: \( O(|V| + |E|) \), where \( |V| \) is the number of vertices and \( |E| \) is the number of edges in the graph.
+- Linear time complexity: \( O(\|V\| + \|E\|) \), where \( \|V\| \) is the number of vertices and \( \|E\| \) is the number of edges in the graph.
 
 ## Code 
 
