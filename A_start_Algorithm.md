@@ -7,8 +7,8 @@ A* (pronounced "A-star") is a widely-used graph traversal and pathfinding algori
 
 ## Architecture
 
-<img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/A%20serach.PNG" alt="A* Search Architecture" width="400" height="300"/><br/>
-*A* Search Architecture
+<img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/A%20serach.PNG" alt="A* Search Architecture" width="400" height="300"/>
+A* Search Architecture
 
 
 
