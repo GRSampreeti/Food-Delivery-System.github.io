@@ -1,6 +1,6 @@
 # Radix Tree 
 
-A radix tree (also known as radix trie, compact prefix tree, or compressed trie) is a data structure that represents a space-optimized trie (prefix tree) in which each node that is the only child is merged with its parent. The key advantages of radix trees include reduced space usage and improved efficiency for small sets and strings with long shared prefixes.
+A radix tree (also known as radix trie, compact prefix tree, or compressed trie) is a data structure that represents a space-optimized trie (prefix tree) in which each node that is the only child is merged with its parent. The key advantages of radix trees include reduced space usage and improved efficiency for small sets and strings with long shared prefixes.[10]
 
 ## Implementation
 
