@@ -1,8 +1,8 @@
-# Skip List Implementation
+# Skip List
 
 ## Introduction
 
-A skip list is a data structure that allows fast search within an ordered sequence of elements. It maintains a linked hierarchy of subsequences, where each successive subsequence skips over fewer elements than the previous one. Searching starts in the sparsest subsequence and continues to denser subsequences until the element is found.
+A skip list is a data structure that allows fast search within an ordered sequence of elements. It maintains a linked hierarchy of subsequences, where each successive subsequence skips over fewer elements than the previous one. Searching starts in the sparsest subsequence and continues to denser subsequences until the element is found.[5]
 
 ## Time Complexity 
 
@@ -20,6 +20,17 @@ A skip list is a data structure that allows fast search within an ordered sequen
 |            | O(n log n)   |
 
 ![Skip List](https://upload.wikimedia.org/wikipedia/commons/2/2c/Skip_list_add_element-en.gif) 
+<p  align="center">
+ Source:https://en.wikipedia.org/wiki/Skip_list
+</p>
+
+<p  align="center">
+<img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/skiplist2.PNG" alt="BST Workflow" width="400" height="400"/>
+</p>
+<p  align="center">
+Figure 5: Skip List Architecture
+</p>
+
 
 ## Code
 
