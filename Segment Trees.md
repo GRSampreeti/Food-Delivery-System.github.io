@@ -1,6 +1,6 @@
 ## Segment Tree
 
-A Segment Tree is a data structure that stores information about array intervals in a tree format. This allows efficient range queries over an array, while still being flexible enough to allow quick modification of the array.
+A Segment Tree is a data structure that stores information about array intervals in a tree format. This allows efficient range queries over an array, while still being flexible enough to allow quick modification of the array.[6]
 
 ### Key Features
 
