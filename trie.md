@@ -1,6 +1,6 @@
 # Trie Data Structure
 
-Trie (pronounced "try") is a tree-like data structure used for efficient retrieval of key-value pairs where keys are usually strings. It is particularly useful for scenarios like predictive text, spell checking, and approximate string matching.
+Trie (pronounced "try") is a tree-like data structure used for efficient retrieval of key-value pairs where keys are usually strings. It is particularly useful for scenarios like predictive text, spell checking, and approximate string matching.[9]
 
 ## Overview
 
