@@ -12,6 +12,12 @@ The algorithm works by iteratively selecting the node with the smallest tentativ
 
 - **Class**: Search algorithm, Greedy algorithm, Dynamic programming
 - **Data Structure**: Graph, Usually used with priority queue or heap for optimization
+  <p  align="center">
+  <img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/Dijkstra.PNG" alt="BST Workflow" width="400" height="450"/>
+  </p>
+  <p  align="center">
+  Figure 3: BST Workflow
+  </p>
 
 ## Implementation
 
