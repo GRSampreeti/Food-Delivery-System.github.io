@@ -16,7 +16,7 @@ The algorithm works by iteratively selecting the node with the smallest tentativ
   <img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/Dijkstra.PNG" alt="BST Workflow" width="400" height="450"/>
   </p>
   <p  align="center">
-  Figure 3: BST Workflow
+  Figure 3: Dijkstra's Architecture
   </p>
 
 ## Implementation
