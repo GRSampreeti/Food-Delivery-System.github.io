@@ -119,7 +119,36 @@ The food delivery system offers a range of features to enhance the user experien
     
 ### Reference
 
-[1] MenuTiger, 2024. Food Delivery Statistics. [online] Available at: https://www.menutiger.com/blog/food-delivery-statistics [Accessed 8 July 2024].
+[1] MenuTiger, 2024. Food Delivery Statistics. [online] Available at: [https://www.menutiger.com/blog/food-delivery-statistics](https://www.menutiger.com/blog/food-delivery-statistics) [Accessed 7 July 2024].
+
+[2] Wikipedia (2023) *Binary search tree*. Available at: [https://en.wikipedia.org/wiki/Binary_search_tree](https://en.wikipedia.org/wiki/Binary_search_tree) (Accessed: 9 July 2024).
+
+[3] Wikipedia (2023) *AVL tree*. Available at: [https://en.wikipedia.org/wiki/AVL_tree](https://en.wikipedia.org/wiki/AVL_tree) (Accessed: 9 July 2024).
+
+[4] Lee, Y. (2020) 'A Search Algorithm', Medium, 15 September. Available at: [https://yuminlee2.medium.com/a-search-algorithm-42c1a13fcf9f](https://yuminlee2.medium.com/a-search-algorithm-42c1a13fcf9f) (Accessed: 9 July 2024).
+
+[5] Codeforces (2013) 'My favorite competitive programming practice problem', Codeforces, 3 December. Available at: [https://codeforces.com/blog/entry/13501](https://codeforces.com/blog/entry/13501) (Accessed: 9 July 2024).
+
+[6] Competitive Programming Algorithms (2023) *Segment Tree*. Available at: [https://cp-algorithms.com/data_structures/segment_tree.html](https://cp-algorithms.com/data_structures/segment_tree.html) (Accessed: 9 July 2024).
+
+[7] Wikipedia (2023) *Fenwick tree*. Available at: [https://en.wikipedia.org/wiki/Fenwick_tree](https://en.wikipedia.org/wiki/Fenwick_tree) (Accessed: 9 July 2024).
+
+[8] Rivas, R. (2022) 'Binary Search Tree', YouTube, 12 October. Available at: [https://www.youtube.com/watch?v=yCQN096CwWM](https://www.youtube.com/watch?v=yCQN096CwWM) (Accessed: 9 July 2024).
+
+[9] Wikipedia (2023) *Trie*. Available at: [https://en.wikipedia.org/wiki/Trie](https://en.wikipedia.org/wiki/Trie) (Accessed: 9 July 2024).
+
+[10] Wikipedia (2023) *Radix tree*. Available at: [https://en.wikipedia.org/wiki/Radix_tree](https://en.wikipedia.org/wiki/Radix_tree) (Accessed: 9 July 2024).
+
+[11] Datta, D. (2023) 'Build a Recommendation Engine with Collaborative Filtering', Real Python, 20 March. Available at: [https://realpython.com/build-recommendation-engine-collaborative-filtering/](https://realpython.com/build-recommendation-engine-collaborative-filtering/) (Accessed: 9 July 2024).
+
+[12] Wikipedia (2023) *Fisher–Yates shuffle*. Available at: [https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) (Accessed: 9 July 2024).
+
+[13] GeeksforGeeks (2023) 'Earliest Deadline First (EDF) CPU Scheduling Algorithm', GeeksforGeeks, 10 January. Available at: [https://www.geeksforgeeks.org/earliest-deadline-first-edf-cpu-scheduling-algorithm/](https://www.geeksforgeeks.org/earliest-deadline-first-edf-cpu-scheduling-algorithm/) (Accessed: 9 July 2024).
+
+[14] Wikipedia (2023) *Topological sorting*. Available at: [https://en.wikipedia.org/wiki/Topological_sorting](https://en.wikipedia.org/wiki/Topological_sorting) (Accessed: 9 July 2024).
+
+[15] Wikipedia (2023) *Ford–Fulkerson algorithm*. Available at: [https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm](https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm) (Accessed: 9 July 2024).
+
 
 
 
