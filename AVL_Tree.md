@@ -1,14 +1,22 @@
 # AVL Tree Implementation
 
 ## Description
-
-This is a C++ implementation of an AVL tree, a self-balancing binary search tree. AVL trees maintain their balance by performing rotations when necessary during insertion and deletion operations.
+An AVL tree, named after its inventors Adelson-Velsky and Landis, is a self-balancing binary search tree. It maintains a balanced structure where the heights of the left and right subtrees of any node differ by at most one. If this balance condition is violated during operations like insertion or deletion, the tree undergoes rebalancing through rotations. 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/AVL_Tree_Example.gif" alt="AVL Tree Example" width="400"/>
 </p>
 
 <p align="center"><em>Source:https://en.wikipedia.org/wiki/AVL_tree</em></p>
+
+<p  align="center">
+<img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/WhatsApp Image 2024-07-09 at 07.20.58_737d800d.jpg" alt="AVL Workflow" width="400" height="400"/>
+</p>
+<p  align="center">
+Figure 2: AVL Workflow
+
+</p>
+
 
 
 ## Space and Time Complexity
