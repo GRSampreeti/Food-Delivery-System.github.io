@@ -1,8 +1,17 @@
 # A* Search
 
-A* (pronounced "A-star") is a graph traversal and pathfinding algorithm used extensively in various fields of computer science.
+A* (pronounced "A-star") is a widely-used graph traversal and pathfinding algorithm renowned for its completeness, optimality, and efficiency. It operates by efficiently finding the shortest path in a weighted graph from a given source node to a destination node, leveraging heuristics to guide its search. Despite its space complexity in storing all generated nodes, A* remains a cornerstone in fields requiring optimal pathfinding solutions due to its practical effectiveness and adaptability.[4]
 
-![A Pathfinding](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
+![A Pathfinding](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)</br>
+*Source: https://en.wikipedia.org/wiki/A*_search_algorithm*
+
+## Architecture
+
+<img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/A%20serach.PNG" alt="A* Search Architecture" width="400" height="300"/><br/>
+*A* Search Architecture
+
+
+
 
 ## Key Characteristics
 
