@@ -1,6 +1,6 @@
 ## Topological Sorting
 
-**Topological sorting** or **topological ordering** of a directed graph is a linear ordering of its vertices such that for every directed edge \( (u,v) \) from vertex \( u \) to vertex \( v \), \( u \) comes before \( v \) in the ordering. This ordering is valid if the graph has no directed cycles, making it a Directed Acyclic Graph (DAG).
+**Topological sorting** or **topological ordering** of a directed graph is a linear ordering of its vertices such that for every directed edge \( (u,v) \) from vertex \( u \) to vertex \( v \), \( u \) comes before \( v \) in the ordering. This ordering is valid if the graph has no directed cycles, making it a Directed Acyclic Graph (DAG).[14]
 
 ### Algorithms
 
