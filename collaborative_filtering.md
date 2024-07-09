@@ -1,6 +1,6 @@
 # Collaborative Filtering Overview
 
-The core idea behind collaborative filtering is that people often receive the best recommendations from others with similar tastes. By identifying users with similar interests, collaborative filtering algorithms can provide personalized recommendations.
+The core idea behind collaborative filtering is that people often receive the best recommendations from others with similar tastes. By identifying users with similar interests, collaborative filtering algorithms can provide personalized recommendations.[11]
 
 ## Workflow
 
@@ -9,6 +9,9 @@ The core idea behind collaborative filtering is that people often receive the be
 3. **Making Recommendations**: Based on these similarities, the system recommends items that like-minded users have rated highly but the user has not yet rated.
 
 ![Collaborative Filtering](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Collaborative_filtering.gif/450px-Collaborative_filtering.gif)
+
+Source:https://en.wikipedia.org/wiki/Collaborative_filtering
+
 
 ## Code for Collaborative Filtering
 
