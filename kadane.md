@@ -1,5 +1,5 @@
 # Kadane's Algorithm for Maximum Sum Submatrix
-Kadane’s algorithm for a 1D array can be extended to find the maximum sum submatrix efficiently. The idea is to fix the left and right columns and use Kadane's algorithm to find the maximum sum contiguous rows between these columns.
+Kadane’s algorithm for a 1D array can be extended to find the maximum sum submatrix efficiently. The idea is to fix the left and right columns and use Kadane's algorithm to find the maximum sum contiguous rows between these columns.[8]
 
 
 ### Time Complexity:
@@ -7,6 +7,15 @@ O(c^2 * r), where c is the number of columns and r is the number of rows in the 
 
 ### Space Complexity:
 O(r), where r is the number of rows in the matrix.
+
+
+<p  align="center">
+<img src="https://github.com/GRSampreeti/Food-Delivery-System.github.io/raw/main/Kadane.PNG" alt="BST Workflow" width="300" height="300"/>
+</p>
+<p  align="center">
+Figure 6: 2D-Kadane
+</p>
+
 
 ## Code
 
