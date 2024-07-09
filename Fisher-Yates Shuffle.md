@@ -1,6 +1,6 @@
 # Fisher-Yates Shuffle Algorithm
 
-The Fisher-Yates shuffle algorithm is used to generate a random permutation of a finite sequence. The algorithm starts from the last element and swaps it with a randomly selected element from the whole array (including itself). It then proceeds to the second last element, and so on, until it reaches the first element.
+The Fisher-Yates shuffle algorithm is used to generate a random permutation of a finite sequence. The algorithm starts from the last element and swaps it with a randomly selected element from the whole array (including itself). It then proceeds to the second last element, and so on, until it reaches the first element.[12]
 
 The time complexity of this algorithm is \( O(n) \).
 
